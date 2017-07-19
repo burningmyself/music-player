@@ -1,0 +1,8 @@
+{
+  "name": "music-player",
+  "version": "0.1.0",
+  "description": "A music player client by iceStone <928881525@qq.com> (http://www.cnblogs.com/burningmyself/)",
+  "main": "main.js",
+  "author": "iceStone <928881525@qq.com> (http://www.cnblogs.com/burningmyself/)",
+  "license": "ISC"
+}
